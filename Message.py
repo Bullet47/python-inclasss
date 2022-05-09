@@ -10,7 +10,7 @@ class Message:
 
     def to_string(self):
         message = "From:" + self.sender + '\n' + "To:" + self.receiver + '\n' + self.text
-        print(message)
+        print(repr(message), end="")
 
 
 if __name__ == '__main__':
