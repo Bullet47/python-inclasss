@@ -9,7 +9,7 @@ import time
 
 mutex = threading.Semaphore(1)  # 左边互斥信号量
 wait = threading.Semaphore(0)  # 左边互斥信号量
-chess = threading.Semaphore(3)
+chess = threading.Semaphore(1)
 player = 0
 
 
