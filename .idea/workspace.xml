@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eeceb8d5-b442-4f43-8641-8d7eed4c67be" name="变更" comment="PV解决下棋问题">
-      <change afterPath="$PROJECT_DIR$/叫号.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="eeceb8d5-b442-4f43-8641-8d7eed4c67be" name="变更" comment="叫号问题啦" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,13 +42,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/PycharmProjects/inclass&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/PycharmProjects/inclass",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\PycharmProjects\inclass\追追" />
@@ -341,11 +338,11 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.叫号问题啦" />
       <item itemvalue="Python.PV解决下棋问题" />
       <item itemvalue="Python.Customer" />
       <item itemvalue="Python.Message" />
       <item itemvalue="Python.Cannonball" />
-      <item itemvalue="Python.叫号问题啦" />
     </list>
     <recent_temporary>
       <list>
@@ -437,7 +434,7 @@
       <workItem from="1652708898059" duration="321000" />
       <workItem from="1652842874795" duration="1186000" />
       <workItem from="1653562712089" duration="31000" />
-      <workItem from="1653563622126" duration="1289000" />
+      <workItem from="1653563622126" duration="1640000" />
     </task>
     <task id="LOCAL-00001" summary="Message.py更正，应为原始字符串">
       <created>1652102109436</created>
@@ -467,7 +464,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652842889305</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="叫号问题啦">
+      <created>1653565158853</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1653565158853</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -488,7 +492,8 @@
     <MESSAGE value="Message.py更正，应为原始字符串" />
     <MESSAGE value="shit一样的实验十 （流汗黄豆**3" />
     <MESSAGE value="PV解决下棋问题" />
-    <option name="LAST_COMMIT_MESSAGE" value="PV解决下棋问题" />
+    <MESSAGE value="叫号问题啦" />
+    <option name="LAST_COMMIT_MESSAGE" value="叫号问题啦" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -511,6 +516,6 @@
     <SUITE FILE_PATH="coverage/inclass$AidFunding.coverage" NAME="AidFunding 覆盖结果" MODIFIED="1648561862656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/inclass$1.coverage" NAME="置换1 覆盖结果" MODIFIED="1649686128672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/正则表达式" />
     <SUITE FILE_PATH="coverage/inclass$Message.coverage" NAME="Message 覆盖结果" MODIFIED="1652703038953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/inclass$.coverage" NAME="叫号 覆盖结果" MODIFIED="1653564792729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/inclass$.coverage" NAME="叫号 覆盖结果" MODIFIED="1653564927056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
