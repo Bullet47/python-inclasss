@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eeceb8d5-b442-4f43-8641-8d7eed4c67be" name="变更" comment="PV解决下棋问题">
+      <change afterPath="$PROJECT_DIR$/叫号.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PV解决下棋问题.py" beforeDir="false" afterPath="$PROJECT_DIR$/PV解决下棋问题.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,46 +58,21 @@
       <recent name="E:\PycharmProjects\inclass" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.PV解决下棋问题">
-    <configuration name="过桥问题啦" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.叫号问题啦">
+    <configuration name="叫号问题啦" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="inclass" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/过桥问题啦.py" />
+      <option name="SCRIPT_NAME" value="E:\PycharmProjects\inclass\叫号问题啦.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="true" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="置换1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="inclass" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/正则表达式" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/正则表达式/置换1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
@@ -366,20 +341,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.置换1" />
       <item itemvalue="Python.PV解决下棋问题" />
       <item itemvalue="Python.Customer" />
       <item itemvalue="Python.Message" />
       <item itemvalue="Python.Cannonball" />
-      <item itemvalue="Python.过桥问题啦" />
+      <item itemvalue="Python.叫号问题啦" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.叫号问题啦" />
         <item itemvalue="Python.PV解决下棋问题" />
         <item itemvalue="Python.Customer" />
         <item itemvalue="Python.Message" />
         <item itemvalue="Python.Cannonball" />
-        <item itemvalue="Python.过桥问题啦" />
       </list>
     </recent_temporary>
   </component>
@@ -461,6 +435,9 @@
       <workItem from="1652705670880" duration="1651000" />
       <workItem from="1652707383353" duration="245000" />
       <workItem from="1652708898059" duration="321000" />
+      <workItem from="1652842874795" duration="1186000" />
+      <workItem from="1653562712089" duration="31000" />
+      <workItem from="1653563622126" duration="1289000" />
     </task>
     <task id="LOCAL-00001" summary="Message.py更正，应为原始字符串">
       <created>1652102109436</created>
@@ -483,7 +460,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652707225857</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="PV解决下棋问题">
+      <created>1652842889305</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1652842889305</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -526,7 +510,7 @@
     <SUITE FILE_PATH="coverage/inclass$triangle_reverse.coverage" NAME="triangle_reverse 覆盖结果" MODIFIED="1648349734378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/inclass$AidFunding.coverage" NAME="AidFunding 覆盖结果" MODIFIED="1648561862656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/inclass$1.coverage" NAME="置换1 覆盖结果" MODIFIED="1649686128672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/正则表达式" />
-    <SUITE FILE_PATH="coverage/inclass$.coverage" NAME="中间可以暂留两个的过桥问题 覆盖结果" MODIFIED="1650944496112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/inclass$Message.coverage" NAME="Message 覆盖结果" MODIFIED="1652703038953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/inclass$.coverage" NAME="叫号 覆盖结果" MODIFIED="1653564792729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
